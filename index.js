@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Listening to Server","Nuke Bot 2.0 Initiated"];
 
 
 let currentIndex = 0;

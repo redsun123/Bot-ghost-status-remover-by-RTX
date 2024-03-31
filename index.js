@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Nuke Update is here! ","200+ Servers Nuked!","Nuke Bot 2.0 Made by Leya!"];
 
 
 let currentIndex = 0;
